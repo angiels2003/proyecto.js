@@ -1,0 +1,201 @@
+[{
+        "id": 1,
+        "tipo": "Remera",
+        "nombre": "C7C",
+        "precio": 790,
+        "foto": "../media/productos/c7c.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Remera",
+        "nombre": "cazadores de sombras",
+        "precio": 700,
+        "foto": "../media/productos/cazadoresdesombras.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Remera",
+        "nombre": "cazadores de sombras",
+        "precio": 700,
+        "foto": "../media/productos/ciudaddehuesos6.jpg"
+    }, {
+        "id": 4,
+        "tipo": "Remera",
+        "nombre": "cuenta alas abejas que me fui",
+        "precio": 1290,
+        "foto": "../media/productos/cuentaalasabejasquemefui.jpg"
+    }, {
+        "id": 5,
+        "tipo": "Remera",
+        "nombre": "cuento de hadas",
+        "precio": 1090,
+        "foto": "../media/productos/cuentodehadas.jpg"
+    }, {
+        "id": 6,
+        "tipo": "Remera",
+        "nombre": "cuentos inconclusos",
+        "precio": 1250,
+        "foto": "../media/productos/cuentosinconclusos.jpg"
+    }, {
+        "id": 7,
+        "tipo": "Remera",
+        "nombre": "el heroe de las eras",
+        "precio": 1590,
+        "foto": "../media/productos/elheroedelaseras.jpg"
+    }, {
+        "id": 8,
+        "tipo": "Remera",
+        "nombre": "el hijo del consul",
+        "precio": 720,
+        "foto": "../media/productos/elhijodelconsul.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "Remera",
+        "nombre": "el hobbit",
+        "precio": 890,
+        "foto": "../media/productos/elhobbit.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "Buzo",
+        "nombre": "el pozo de la ascension",
+        "precio": 1590,
+        "foto": "../media/productos/elpozodelaascension.jpg"
+    }, 
+    {
+        "id": 11,
+        "tipo": "Buzo",
+        "nombre": "el senor de los anillos",
+        "precio": 990,
+        "foto": "../media/productos/elseñordelosanillosl.jpg"
+    }, 
+    {
+        "id": 12,
+        "tipo": "Buzo",
+        "nombre": "el senor de los anillos ll" ,
+        "precio": 990,
+        "foto": "../media/productos/elseñordelosanillosll.jpg"
+    },
+    {
+        "id": 13,
+        "tipo": "Buzo",
+        "nombre": "el senor de los anillos lll",
+        "precio": 990,
+        "foto": "../media/productos/elseñordelosanilloslll.jpg"
+    }, 
+    {
+        "id": 14,
+        "tipo": "Buzo",
+        "nombre": "elsilmarillion",
+        "precio": 890,
+        "foto": "../media/productos/elsilmarillion.jpg"
+    }, 
+    {
+        "id": 15,
+        "tipo": "Buzo",
+        "nombre": "el verano en el que me enamore",
+        "precio": 520,
+        "foto": "../media/productos/eveqme.jpg"
+    }, {
+        "id": 16,
+        "tipo": "Buzo",
+        "nombre": "fundacion e imperio",
+        "precio": 520,
+        "foto": "../media/productos/fundacioneimperio.jpg"
+    }, {
+        "id": 17,
+        "tipo": "Pantalon",
+        "nombre": "iosi",
+        "precio": 290,
+        "foto": "../media/productos/iosi.jpg"
+    }, {
+        "id": 18,
+        "tipo": "Short",
+        "nombre": "lacivia",
+        "precio": 170,
+        "foto": "../media/productos/lacivia.jpg"
+    }, {
+        "id": 19,
+        "tipo": "Short",
+        "nombre": "la espada deshannara",
+        "precio": 170,
+        "foto": "../media/productos/laespadadeshannara.jpg"
+    }, {
+        "id": 20,
+        "tipo": "Bermuda",
+        "nombre": "la prisionera de oro",
+        "precio": 300,
+        "foto": "../media/productos/laprisioneradeoro.jpg"
+    }, {
+        "id": 21,
+        "tipo": "Bermuda",
+        "nombre": "la traicion de monteverde",
+        "precio": 300,
+        "foto": "../media/productos/latraiciondemonteverde.jpg"
+    }, {
+        "id": 22,
+        "tipo": "Short",
+        "nombre": "los gatos guerreros",
+        "precio": 280,
+        "foto": "../media/productos/losgatosguerreros.jpg"
+    }, {
+        "id": 23,
+        "tipo": "Biker",
+        "nombre": "loveless",
+        "precio": 190,
+        "foto": "../media/productos/loveless.jpg"
+    }, {
+        "id": 24,
+        "tipo": "Biker",
+        "nombre": "no hay verano sin ti",
+        "precio": 190,
+        "foto": "../media/productos/nhv.jpg"
+    }, {
+        "id": 25,
+        "tipo": "Biker",
+        "nombre": "nick y charlie",
+        "precio": 100,
+        "foto": "../media/productos/nickycharlie.jpg"
+    }, {
+        "id": 26,
+        "tipo": "Accesorio",
+        "nombre": "sigue mi voz",
+        "precio": 270,
+        "foto": "../media/productos/siguemivoz.jpg"
+    }, {
+        "id": 27,
+        "tipo": "Accesorio",
+        "nombre": "siempre nos queda el verano",
+        "precio": 270,
+        "foto": "../media/productos/snqdev.jpg"
+    }, {
+        "id": 28,
+        "tipo": "Accesorio",
+        "nombre": "sobre hormigas y disnosaurios",
+        "precio": 345,
+        "foto": "../media/productos/sobrehormigasydinosaurios.jpg"
+    }, {
+        "id": 29,
+        "tipo": "Accesorio",
+        "nombre": "una corona del huesos dorados",
+        "precio": 345,
+        "foto": "../media/productos/unacoronadehuesosdorados.jpg"
+    }, {
+        "id": 30,
+        "tipo": "Accesorio",
+        "nombre": "una leccion de tinta y venganza",
+        "precio": 345,
+        "foto": "../media/productos/unalecciondetintayvenganza.jpg"
+    }, {
+        "id": 31,
+        "tipo": "Accesorio",
+        "nombre": "una atlas de tolkien",
+        "precio": 800,
+        "foto": "../media/productos/unatlasdetolkien.jpg"
+    }, {
+        "id": 32,
+        "tipo": "Accesorio",
+        "nombre": "y si lo probamos?",
+        "precio": 800,
+        "foto": "../media/productos/ysiloprobamos.jpg"
+    }
+]
